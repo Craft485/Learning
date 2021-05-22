@@ -1,0 +1,23 @@
+html, body {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    background-color: darkgrey;
+    color: white;
+}
+
+#list {
+    min-height: 5%;
+    height: fit-content;
+}
+
+#wrapper {
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    margin-top: 1%;
+    padding: 1%;
+    border: thin solid black;
+}
